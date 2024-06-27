@@ -9,4 +9,3 @@ Considerando dois cenários:
 Se n é múltiplo de (m+1), o computador deve ser "generoso" e convidar o jogador a iniciar a partida com a frase "Você começa!"
 Caso contrário, o computador toma a iniciativa de começar o jogo, declarando "Computador começa!"
 
-A estratégia do computador para ganhar consiste em deixar sempre um número de peças que seja múltiplo de (m+1) ao jogador. Caso isso não seja possível, será tirado o número máximo de peças possíveis.
